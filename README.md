@@ -72,7 +72,7 @@ pip install -e .
 ### 3. Clone Repository
 
 ```bash
-git clone https://github.com/defineyumi/rl_training.git
+git clone https://github.com/defineyumi/rl_training_dwaq.git
 cd rl_training
 ```
 
@@ -135,7 +135,7 @@ For deployment on DeepRobotics Lite3 robot:
 ## 📁 Project Structure
 
 ```
-rl_training/
+rl_training_dwaq/
 ├── legged_gym/              # Simulation environment
 │   ├── legged_gym/
 │   │   ├── envs/

@@ -6,19 +6,6 @@ This repository contains the implementation of a reinforcement learning-based lo
 
 ![Quadruped Robot Locomotion Demo](issacgym_test.gif)
 
-## 📄 Citation
-
-If you use this code in your research, please cite our paper:
-
-```bibtex
-@article{chen2025robust,
-  title={Robust Quadrupedal Locomotion on Complex Terrains via Adaptive Entropy Learning},
-  author={Chen, Jiale and Kong, Lingyun and Zhang, ZhenYao and Xue, Zhipeng},
-  journal={MDPI Journal},
-  year={2025}
-}
-```
-
 ## ✨ Key Features
 
 - **CENet-based Terrain Imagination**: Implicit terrain feature learning using Context-Encoded Network (CENet) from DreamWaQ framework
